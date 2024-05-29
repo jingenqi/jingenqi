@@ -14,7 +14,7 @@ I am a [Software Engineer] with a focus on [Machine learning]. I am passionate a
 - 📫 How to reach me: [Enqi.jing@warwick.ac.uk]
 - ⚡ Fun fact: [Gym Addicted]
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=jingenqi&theme=github-compact&hide_border=true&area=true" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=jingenqi&theme=react-dark&hide_border=true&area=true" />
 
 ## Skills and Technologies
 
