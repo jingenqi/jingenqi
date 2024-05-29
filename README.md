@@ -1,5 +1,6 @@
-# Hi there, I'm [Enqi Jing] 👋
+# Hi there, I'm Enqi Jing 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B32F&background=8AFFA100&center=true&random=false&width=435&lines=Welcome+to+My+Github+Profile+Page)](https://git.io/typing-svg)
 
 ## About Me
 
@@ -12,6 +13,8 @@ I am a [Software Engineer] with a focus on [Machine learning]. I am passionate a
 <!-- - 💬 Ask me about: [Your Areas of Expertise] -->
 - 📫 How to reach me: [Enqi.jing@warwick.ac.uk]
 - ⚡ Fun fact: [Gym Addicted]
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=jingenqi&theme=github-compact&hide_border=true&area=true" />
 
 ## Skills and Technologies
 
@@ -37,7 +40,7 @@ I am a [Software Engineer] with a focus on [Machine learning]. I am passionate a
 - Project Management
 - Collaborative Development
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
 <!--
 ## Projects
 
