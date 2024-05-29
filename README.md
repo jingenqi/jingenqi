@@ -37,8 +37,10 @@ I am a [Software Engineer] with a focus on [Machine learning]. I am passionate a
 - Project Management
 - Collaborative Development
 
-## Projects
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 <!--
+## Projects
+
 ### [Project 1 Title](Link to Project)
 ![Project 1 Screenshot](Link to Screenshot or Badge)
 
