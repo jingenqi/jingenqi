@@ -68,10 +68,5 @@ Summary of Research Paper 2. Mention the journal/conference, main contributions,
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Enqi.Jing@warwick.ac.uk)
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
 
 <!-- Optional: Add other sections such as achievements, certificates, etc. -->
